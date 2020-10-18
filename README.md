@@ -1,11 +1,11 @@
 # Projeto da Aula React Styled Components
 
-##Bootcamp React Web Developer - Digital Innovation One
+## Bootcamp React Web Developer - Digital Innovation One
 
-###Criando uma home com Styled Components
+### Criando uma home com Styled Components
 
 
-####Linguagens e tecnologias utilizadas:
+#### Linguagens e tecnologias utilizadas:
 - HMTL
 - CSS
 - React
@@ -17,12 +17,12 @@
 
 
 
-#####Tela 
+##### Tela 
 ![](https://i.imgur.com/LuNTVzV.png)
 
 
 
-#####Exemplo do código
+##### Exemplo do código
 
 ```javascript
 import React from 'react';
